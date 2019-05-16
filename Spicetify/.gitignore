@@ -1,0 +1,12 @@
+*.spa
+
+console.log
+@Resources/Backup
+@Resources/Extracted
+@Resources/robocopy_transfer_log.txt
+@Resources/robocopy_transfer_raw_log.txt
+@Resources/robocopy_copyapp_log.txt
+
+node_modules
+yarn-error.log
+yarn.lock
